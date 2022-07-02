@@ -46,7 +46,7 @@ The game is based on a procedural generation of a dungeon.
 - clé 1 part jour pendant 5 jours apparition de boss avec clé aléatoire (il faut toute les avoir sur soit et trouver la porte aléatoire pour l'ouvrir) mort = clés perdu -> 15min countdown despawn et redistribution des clés aléatoires entre d'autre joueurs.
 - arène centrale (pvp) pour farming xp et loot des autres joueurs
 - si plus de 7 jours de jeu -> mort subite (pas de réapparition)
-- si plus de 30 jours de jeu -> égalité xp +++
+- si plus de 30 jours de jeu -> égalité xp +++ mais selon le temps de jeu de chacun sur la game
 - gagnant seul -> skin top1 -> xp ++
 - plus de 2 jours inactivité (- de 1h de jeu actif) -> mort (loot redistribué) + (xp/2) 30-60min et (xp/4) -15min
 - peut participé à plusieur partie en même temps (5 parties max)
