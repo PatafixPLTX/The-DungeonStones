@@ -52,6 +52,9 @@ The game is based on a procedural generation of a dungeon.
 - peut participé à plusieur partie en même temps (5 parties max)
 - capa -> attaques + coup spécial tout les 20 paliers (support animaux, ultime...) -> atribution de point (intelligence, force, agilité, charisme, sans-froid)
 
+
+- Suggestions de jeux : replacer les clés par des pierres (dungeon**STONES**)
+
 ## FAQ
 
 
